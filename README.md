@@ -1,1 +1,2 @@
-# robinhood_casestudy
+# RobinHood Casestudy
+![robinhood](images/robinhood.jpeg)

@@ -16,13 +16,13 @@ According to [Bezinga](https://www.benzinga.com/money/robinhood-alternatives/) R
 
 ### How does this company use technology to their advantage? Why are they considered a FinTech company?
 
+Robinhood takes advantage of the rapid developement in mobile phone processing and internet to deliver live market data and trade excecution on mobile phones. They also rely on the design and ease of use of their application to attract younger traders and investors. Robinhood also utilizes secondary order excecution processed by prime brokers to allow for commition free trading. This requires perfecting back-end and using complex agorithms to route trades.
 
+Robinhood is a prime examples of a FinTech company as they merge graphics design, mobile internet technology, advanced server-side technology with a traditional brokerage order execution.
 
 ### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 
-RobinHood trading platform via an easy-to-use mobile app, in contrast to the PC focus of most of the more established players
-
-easy tarding access and targetting Millennials for new investors. 
+RobinHood trading platform via an easy-to-use mobile app, in contrast to the PC focus of most of the more established players, easy tarding access and targetting Millennials for new investors. 
 
 ### What is the prognosis for this company? Where do they expect to be in the future?
 

@@ -20,5 +20,14 @@ According to [Bezinga](https://www.benzinga.com/money/robinhood-alternatives/) R
 
 ### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 
+RobinHood trading platform via an easy-to-use mobile app, in contrast to the PC focus of most of the more established players
+
+easy tarding access and targetting Millennials for new investors. 
 
 ### What is the prognosis for this company? Where do they expect to be in the future?
+
+Regulations are thier beggiest challange.
+
+Market share has been increasing significanttly inthe past few year.
+
+It will be one of the large player in the futur simillar to Amazon. 

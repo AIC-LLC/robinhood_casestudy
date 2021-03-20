@@ -1,5 +1,5 @@
 # RobinHood Casestudy
-![robinhood](images/robinhood.jpeg)
+![robinhood](images/robinhood.png)
 
 ## Summary
 Robinhood is an internet trading platform and broker that offers access to securities and derivatives markets.

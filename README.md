@@ -4,10 +4,10 @@
 ## Summary
 Robinhood is an internet trading platform and broker that offers access to securities and derivatives markets.
 
-## Contributors:
+## Contributors
 Hany Emara and Illya Nayshevsky, Ph.D.
 
-
+## Questions
 ### What is the background of your company? What do they do? Who are their competitors?
 
 Robinhood Markets, Inc. is a trading platform and securities broker known for offering commission-free trades of stocks and exchange-traded funds via a mobile app. Robinhood is based in Menlo Park, CA, and was founded by [Vladimir Tenev](https://en.wikipedia.org/wiki/Vladimir_Tenev), and [Baiju Bhatt](https://en.wikipedia.org/wiki/Baiju_Bhatt). Robinbood is popular among younger invetors due to its ease of use and attractive GUI. 
